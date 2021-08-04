@@ -18,7 +18,7 @@ Output: 4
 */
 
 //Solution 1
-/* 
+
 class Solution {
 public:
     int lengthOfLastWord(string s) {
@@ -51,4 +51,3 @@ public:
         
     }
 
-*/
